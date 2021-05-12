@@ -1,0 +1,5 @@
+@use 'colors';
+.desc{
+    background-color: colors.$yellow;
+    color: colors.$green;
+}

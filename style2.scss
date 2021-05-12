@@ -1,0 +1,24 @@
+@use 'colors';
+
+label{
+    color:colors.$pink;
+}
+
+
+%button-design {
+    border: 1px solid #ccc;
+    padding: 10px;
+    color: rgb(233, 15, 15);
+}
+
+#button1{
+    @extend %button-design;
+}
+
+#button2{
+    @extend %button-design;
+}
+
+#button3{
+    @extend %button-design;
+}

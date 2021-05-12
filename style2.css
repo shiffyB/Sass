@@ -1,0 +1,11 @@
+label {
+  color: #ff3399;
+}
+
+#button3, #button2, #button1 {
+  border: 1px solid #ccc;
+  padding: 10px;
+  color: rgb(255, 14, 14);
+}
+
+/*# sourceMappingURL=style2.css.map */
